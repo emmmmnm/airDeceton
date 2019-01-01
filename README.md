@@ -31,3 +31,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 效果展示地址：http://htmlpreview.github.io/?https://github.com/emmmmnm/airDeceton/blob/master/dist/index.html
+
+![image](https://github.com/emmmmnm/airDeceton/tree/master/static/imgs/效果图1.png)
